@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssarkar551
 - 👀 I’m interested in Frontend web development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 Reach me on LinkedIn - linkedin.com/ssarkar551
 -                 Twitter - @ssarkar09
