@@ -5,6 +5,7 @@
 - 📫 Reach me on LinkedIn - linkedin.com/ssarkar551
 -                 Twitter - @ssarkar09
 -                 Mail - ssarkar551@gmail.com
+-                 Discord - @shadowfang098
 
 <!---
 ssarkar551/ssarkar551 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
